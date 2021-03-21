@@ -10,5 +10,9 @@ module ArrayClass
       arr = []
       
     end # End method
+    # Iterate Array
+    #
+    def iterate_arr
+    end
   end # End method
 end # End method
