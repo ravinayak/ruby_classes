@@ -10,5 +10,5 @@ module ArrayClass
       arr = []
       
     end
-  end
+  end # End method
 end # End method
