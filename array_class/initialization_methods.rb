@@ -11,4 +11,4 @@ module ArrayClass
       
     end
   end
-end
+end # End method
