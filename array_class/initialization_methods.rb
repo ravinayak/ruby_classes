@@ -9,6 +9,6 @@ module ArrayClass
     def create_arr
       arr = []
       
-    end
+    end # End method
   end # End method
 end # End method
