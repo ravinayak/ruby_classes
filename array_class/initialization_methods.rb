@@ -15,4 +15,4 @@ module ArrayClass
     def iterate_arr
     end
   end # End method
-end # End method
+end # End method added here
